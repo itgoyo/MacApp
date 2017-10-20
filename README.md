@@ -12,3 +12,7 @@
 - Aria2
 - Bilibili
 - Chrome
+- Downie
+- Dash
+- istat Menus
+- Bartender
