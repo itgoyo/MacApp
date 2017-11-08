@@ -38,7 +38,7 @@
 ★★★★★  | Airmail  | 最强mac邮件客户端 | [官网](http://airmailapp.com/) | [地址](http://xclient.info/s/airmail.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  | PyCharm | 强大的Python IDE工具 | [官网](https://www.jetbrains.com/pycharm/) | [地址](http://xclient.info/s/pycharm.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  | 1Password | 密码管理工具 App名人堂产品 | [官网](https://1password.com/) | [地址](http://xclient.info/s/1password.html?_=7a372c5fb239b94c77ad4868d63f8a67)
-★★★★★  |  MWeb | 专业的Markdown写作、记笔记、静态博客生成软件 | [官网](http://zh.mweb.im/) | [地址](http://xclient.info/s/mweb.html?_=7a372c5fb239b94c77ad4868d63f8a67)
+★★★★★  |  MWeb | 专业的Markdown写作、静态博客生成软件 | [官网](http://zh.mweb.im/) | [地址](http://xclient.info/s/mweb.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  | Transmit | 一款功能齐全的FTP客户端 | [官网](https://panic.com/transmit/) | [地址](http://xclient.info/s/transmit.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  | BetterTouchTool | 把触控板的潜力发挥到淋漓尽致 | [官网](https://www.boastr.net/) | [地址](http://xclient.info/s/bettertouchtool.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  | Folx Pro | Mac上公认最好的下载工具 | [官网](https://www.macupdate.com/app/mac/29767/folx-pro) | [地址](http://xclient.info/s/folx-pro.html?_=7a372c5fb239b94c77ad4868d63f8a67)
@@ -55,7 +55,7 @@
 ★★★★★  | Day One |  生活记录伴侣 | [官网](http://dayoneapp.com/) | [地址](http://xclient.info/s/day-one.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  | Framer | 移动交互原型设计工具 | [官网](https://framer.com/) | [地址](http://xclient.info/s/framer-studio.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  |  MAMP Pro | 集成web服务器环境 | [官网](https://www.mamp.info/en/mamp-pro/) | [地址](http://xclient.info/s/mamp-pro.html?_=7a372c5fb239b94c77ad4868d63f8a67)
-★★★★★  | Civilization VI（席德·梅尔之文明6） | 一款回合制策略游戏 | [官网](https://www.civilization.com/) | [地址](http://xclient.info/s/civilization-vi.html?_=7a372c5fb239b94c77ad4868d63f8a67)
+★★★★★  | Civilization VI（文明6） | 一款回合制策略游戏 | [官网](https://www.civilization.com/) | [地址](http://xclient.info/s/civilization-vi.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 
 
 
