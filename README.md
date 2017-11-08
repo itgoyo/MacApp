@@ -2,6 +2,8 @@
 
 文章应用参考[xclient官网](http://xclient.info/)，做出整理。
 
+连接虽然提供破解版下载，但是有钱的朋友我还是推荐购买正版，这样子才能促使开发者们去开发更优秀的软件。这里的破解连接仅仅是帮助那些没有足够钱，但是又急需软件的朋友提供的。
+
 #### 1.1 热门应用
 
 评分   | 名称  | 功能简述 | 官网 | 破解版
@@ -47,7 +49,7 @@
 ★★★★★  | Movist | 一款CPU占用率低的高清多格式媒体播放器 | [官网](https://movist.en.softonic.com/mac) | [地址](http://xclient.info/s/movist.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  | CrossOver | 在你的mac上运行window应用 | [官网](https://www.codeweavers.com/products/crossover-mac) | [地址](http://xclient.info/s/cross-over.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  | OmniPlan | 最NB的项目管理流程软件 | [官网](https://www.omnigroup.com/omniplan) | [地址](http://xclient.info/s/omni-plan.html?_=7a372c5fb239b94c77ad4868d63f8a67)
-★★★★★  | Paw | 3.1.5 实用的HTTP/REST服务测试工具 | [官网](https://paw.cloud/) | [地址](http://xclient.info/s/paw.html?_=7a372c5fb239b94c77ad4868d63f8a67)
+★★★★★  | Paw | 实用的HTTP/REST服务测试工具 | [官网](https://paw.cloud/) | [地址](http://xclient.info/s/paw.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  | Archiver | 一款功能齐全的压缩解压工具 | [官网](https://archiverapp.com/) | [地址](http://xclient.info/s/archiver.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  | Tower | mac平台最强大的Git 客户端 | [官网](https://www.git-tower.com/) | [地址](http://xclient.info/s/tower.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  | Adobe Acrobat Pro | 强大的PDF编辑软件 | [官网](https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html) | [地址](http://xclient.info/s/adobe-acrobat-pro-dc.html?_=7a372c5fb239b94c77ad4868d63f8a67)
@@ -57,7 +59,24 @@
 ★★★★★  |  MAMP Pro | 集成web服务器环境 | [官网](https://www.mamp.info/en/mamp-pro/) | [地址](http://xclient.info/s/mamp-pro.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 ★★★★★  | Civilization VI（文明6） | 一款回合制策略游戏 | [官网](https://www.civilization.com/) | [地址](http://xclient.info/s/civilization-vi.html?_=7a372c5fb239b94c77ad4868d63f8a67)
 
+## 计划
 
+- [ ] App进行详细的分类
+
+
+- 开发者工具
+- 下载工具
+- 图形设计
+- 系统工具
+- 黑科技
+- 产品
+- 通信
+- 音频
+- 视频
+- 阅读
+
+
+- [ ] 罗列自己比较推荐的APP
 
 
 
