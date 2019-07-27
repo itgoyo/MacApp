@@ -93,9 +93,4 @@
 
 <div align=center>
 
-**请我吃颗糖**
-<br>
-<br>
 
-![](http://omvbl46i3.bkt.clouddn.com/17-11-8/71817293.jpg)
-</div>
